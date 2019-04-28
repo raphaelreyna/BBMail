@@ -4,7 +4,7 @@ from InfoGetter import InfoGetter
 from pathlib import PurePath
 import os
 
-class Artemis:
+class BBMail:
     def __init__(self, password):
         root_path = PurePath(os.path.realpath(__file__)).parents[1]
         self.credentials_path = root_path / 'credentials'
