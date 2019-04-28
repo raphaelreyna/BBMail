@@ -1,4 +1,4 @@
-# Artemis
+# BBMail
 ## A BlackBoard interface via email.
 
 Using BlackBoard can be a pain, both through their website and through their official app.
